@@ -1,5 +1,11 @@
-Here you can say lots of fun things about your site.
+OFFICIAL **AUXROLE** BLOG
 
-Maybe say a some things about yourself.
+hello! welcome to my official blog!
 
-Or maybe what you plan to blog about.
+i have a YT channel:AuxRole
+
+i have twitter:auxrole
+
+i have a roblox: AuxRole
+
+My TT: AuxRole
