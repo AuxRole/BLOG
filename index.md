@@ -1,11 +1,11 @@
-OFFICIAL **AUXROLE** BLOG
+BLOG AUXROLE
 
-hello! welcome to my official blog!
+Witam na moim blogu.
 
-i have a YT channel:AuxRole
+tutaj będą znajdować się najnowsze info z: Youtube, TikTok, itp. itd.
 
-i have twitter:auxrole
+Mój YouTube:AuxRole
 
-i have a roblox: AuxRole
+Mój TikTok@auxrole
 
-My TT: AuxRole
+Zapraszam!
