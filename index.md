@@ -9,3 +9,4 @@ Mój YouTube:AuxRole
 Mój TikTok@auxrole
 
 Zapraszam!
+Na tiktoku wbijamy 2k OBS!
