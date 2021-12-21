@@ -1,18 +1,18 @@
-title: "AuxRole Blog"
-author: "Default AuxRole Studio "
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "AuxRole"
+author: "AuxRole"
+description: "Siema Witam na mojej stronie internetowej!." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "auxrole@gmail.com"
 twitter_username: "AuxRole"
-#github_username: "githubuser"
+github_username: "Auxrole"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
-roblox_username: AuxRole
+#roblox_username: AuxRole
 #instagram_username: username
 #pinterest_username: username
-youtube_username: AuxRole
+youtube_username: "AuxRole"
 #googleplus_username: +username
 
 #########################################################################################
